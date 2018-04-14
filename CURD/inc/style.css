@@ -1,0 +1,50 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	outline: 0px;
+}
+.wraper{
+	width: 970px;
+	margin: 0px auto;
+}
+.HeaderSection{
+	background: #2A2A2A;
+	height: 58px;
+	margin-top: -20px;
+	text-align: center;
+}
+.HeaderSection h2{
+	color: #fff;
+	padding: 14px;
+}
+.ContentSection {
+    min-height: 500px;
+    background: #ccc;
+    margin-bottom: -16px;
+}
+.FooterSection{
+	background: #2A2A2A;
+	text-align: center;
+
+}
+.FooterSection p{
+	padding: 19px;
+	color: #fff;
+}
+.tblone{
+	width: 100%;
+	border: 1px solid #fff;
+	margin: 20px 0;
+}
+.tblone td{
+	padding: 5px 10px;
+	text-align: center;
+}
+table.tblone tr:nth-child(2n+1){
+	background: #fff;
+	height: 30px;
+}
+table.tblone tr:nth-child(2n){
+	background: #f1f1f1;
+	height: 30px;
+}
