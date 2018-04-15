@@ -53,7 +53,8 @@
 	 	</tr>
 	</table>
 </form>
-
+<div class="goback">
 <a href="index.php">Go Back</a>
+</div>
 
 <?php include'inc/footer.php';?>

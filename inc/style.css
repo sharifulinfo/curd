@@ -57,3 +57,10 @@ table.tblone tr:nth-child(2n){
     color: black;
     font-weight: bold;
 }
+.goback a{
+	background: #ddd;
+    padding: 20px;
+    margin-top: 81px;
+    overflow: hidden;
+    display: block;
+}
